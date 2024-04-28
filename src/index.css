@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+  background: url('https://emap-romulus-prod.s3.eu-west-1.amazonaws.com/wp-content/uploads/sites/9/2018/11/techimageextra.jpg') no-repeat center center fixed; 
+  background-size: cover; 
+
+}
